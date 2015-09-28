@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1306.9 586.14">
+<g transform="translate(496.35 204.35)">
+<g transform="translate(-490.91 -207.48)">
+<path stroke-linejoin="round" d="m1250.1 128.98h-407.96" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+<path d="m843.76 135.62-13.211-6.6444 13.211-6.5662v13.211z" fill-rule="evenodd"/>
+<path d="m997.67 100.06v20.011h85.282v-20.011h-85.282z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="16.259px" y="115.06468" x="998.0611" font-family="Arial" fill="#000000">REGISTER</text>
+<path d="m816.32 76.606v501.45h14.227v-501.45h-14.227z" fill-rule="evenodd" fill="#fa72c6"/>
+<path d="m414.53 76.606v501.45h14.227v-501.45h-14.227z" fill-rule="evenodd" fill="#fa72c6"/>
+<path d="m1250.1 76.606v501.45h14.149v-501.45h-14.149z" fill-rule="evenodd" fill="#fa72c6"/>
+<path stroke-linejoin="round" d="m1250.1 407.89h-407.96" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+<path d="m843.76 414.53-13.211-6.6444 13.211-6.5662v13.211z" fill-rule="evenodd"/>
+<path d="m985.63 378.96v20.011h109.36v-20.011h-109.36z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="16.259px" y="393.97147" x="985.55402" font-family="Arial" fill="#000000">UNREGISTER</text>
+<text xml:space="preserve" font-size="30.017px" y="33.768986" x="376.46164" font-family="Arial" fill="#000000">Dealer </text>
+<text xml:space="preserve" font-size="30.017px" y="33.768986" x="474.01648" font-family="Arial" fill="#000000">1</text>
+<text xml:space="preserve" font-size="30.017px" y="33.768986" x="1206.9285" font-family="Arial" fill="#000000">Callee</text>
+<text xml:space="preserve" font-size="30.017px" y="33.768986" x="755.42468" font-family="Arial" fill="#000000">Dealer </text>
+<text xml:space="preserve" font-size="30.017px" y="33.768986" x="851.72882" font-family="Arial" fill="#000000">2</text>
+<path stroke-linejoin="round" d="m830.55 247.17h407.96" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+<path d="m1236.9 240.6 13.21 6.5662-13.21 6.6444v-13.211z" fill-rule="evenodd"/>
+<path d="m943.97 218.25v20.011h192.69v-20.011h-192.69z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="16.259px" y="232.63078" x="944.28082" font-family="Arial" fill="#000000">REGISTERED or ERROR</text>
+<path stroke-linejoin="round" d="m830.55 526.08h407.96" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+<path d="m1236.9 519.51 13.21 6.5662-13.21 6.6444v-13.211z" fill-rule="evenodd"/>
+<path d="m931.85 497.15v20.011h216.84v-20.011h-216.84z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="16.259px" y="511.53757" x="931.7738" font-family="Arial" fill="#000000">UNREGISTERED or ERROR</text>
+<path stroke-linejoin="round" d="m816.32 152.66h-375.99" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+<path d="m441.97 159.23-13.211-6.5662 13.211-6.6444v13.211z" fill-rule="evenodd"/>
+<path d="m579.94 123.74v20.011h85.204v-20.011h-85.204z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="16.259px" y="138.82803" x="580.32623" font-family="Arial" fill="#000000">REGISTER</text>
+<path stroke-linejoin="round" d="m428.76 223.56h376.07" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+<path d="m803.11 216.92 13.211 6.6444-13.211 6.5662v-13.211z" fill-rule="evenodd"/>
+<path d="m526.16 194.64v20.011h192.76v-20.011h-192.76z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="16.259px" y="210.11812" x="526.54602" font-family="Arial" fill="#000000">REGISTERED or ERROR</text>
+<path stroke-linejoin="round" d="m816.32 431.57h-375.99" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+<path d="m441.97 438.14-13.211-6.5662 13.211-6.6444v13.211z" fill-rule="evenodd"/>
+<path d="m567.9 402.65v20.011h109.28v-20.011h-109.28z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="16.259px" y="417.73483" x="567.81921" font-family="Arial" fill="#000000">UNREGISTER</text>
+<path stroke-linejoin="round" d="m428.76 502.47h376.07" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+<path d="m803.11 495.83 13.211 6.6444-13.211 6.5662v-13.211z" fill-rule="evenodd"/>
+<path d="m514.12 473.55v20.011h216.84v-20.011h-216.84z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="16.259px" y="489.0249" x="514.03894" font-family="Arial" fill="#000000">UNREGISTERED or ERROR</text>
+<path d="m36.349 76.449v501.45h14.227v-501.45h-14.227z" fill-rule="evenodd" fill="#fa72c6"/>
+<text xml:space="preserve" font-size="30.017px" y="33.768986" x="2.5014062" font-family="Arial" fill="#000000">Caller</text>
+</g>
+</g>
+</svg>

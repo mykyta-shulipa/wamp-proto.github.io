@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1044.8 798.03">
+<g transform="translate(368.1 -239.06)">
+<g transform="translate(-356.39 246.39)">
+<path d="m935.16 779.3c13.047 0 23.672-10.625 23.672-23.672v-297.58c0-13.047-10.625-23.672-23.672-23.672h-909.45c-13.047 0-23.594 10.625-23.594 23.672v297.58c0 13.047 10.547 23.672 23.594 23.672h909.45z" fill-rule="evenodd" fill="#d9d9d9"/>
+<path stroke-linejoin="round" d="m935.16 779.3c13.047 0 23.672-10.625 23.672-23.672v0-297.58c0-13.047-10.625-23.672-23.672-23.672v0h-909.45c-13.047 0-23.594 10.625-23.594 23.672v0 297.58c0 13.047 10.547 23.672 23.594 23.672v0h909.45z" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+<text xml:space="preserve" font-size="16.25px" y="761.25" x="463.75" font-family="Arial" fill="#000000">Host</text>
+<path d="m935.16 410.78c13.047 0 23.672-10.547 23.672-23.594v-290.62c0-13.047-10.625-23.594-23.672-23.594h-907.03c-13.047 0-23.672 10.547-23.672 23.594v290.62c0 13.047 10.625 23.594 23.672 23.594h907.03z" fill-rule="evenodd" fill="#d9d9d9"/>
+<path stroke-linejoin="round" d="m935.16 410.78c13.047 0 23.672-10.547 23.672-23.594v0-290.62c0-13.047-10.625-23.594-23.672-23.594h-907.03c-13.047 0-23.672 10.547-23.672 23.594v0 290.62c0 13.047 10.625 23.594 23.672 23.594v0h907.03z" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+<text xml:space="preserve" font-size="16.25px" y="392.5" x="465" font-family="Arial" fill="#000000">Host</text>
+<path d="m840.7 339.92c13.047 0 23.594-10.625 23.594-23.672v-188.91c0-13.047-10.547-23.672-23.594-23.672h-434.69c-13.047 0-23.594 10.625-23.594 23.672v188.91c0 13.047 10.547 23.672 23.594 23.672h434.69z" fill-rule="evenodd" fill="#a6a6a6"/>
+<path stroke-linejoin="round" d="m840.7 339.92c13.047 0 23.594-10.625 23.594-23.672v0-188.91c0-13.047-10.547-23.672-23.594-23.672v0h-434.69c-13.047 0-23.594 10.625-23.594 23.672v0 188.91c0 13.047 10.547 23.672 23.594 23.672h434.69z" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+<text xml:space="preserve" font-size="16.25px" y="321.25" x="566.25" font-family="Arial" fill="#000000">Server Process</text>
+<path d="m595 724.92c13.047 0 23.672-10.547 23.672-23.594v-188.98c0-13.05-10.62-23.6-23.67-23.6h-188.98c-13.047 0-23.594 10.547-23.594 23.594v188.98c0 13.047 10.547 23.594 23.594 23.594h188.98z" fill-rule="evenodd" fill="#a6a6a6"/>
+<path stroke-linejoin="round" d="m595 724.92c13.047 0 23.672-10.547 23.672-23.594v0-188.98c0-13.05-10.62-23.6-23.67-23.6h-188.98c-13.047 0-23.594 10.547-23.594 23.594v188.98c0 13.047 10.547 23.594 23.594 23.594v0h188.98z" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+<text xml:space="preserve" font-size="16.25px" y="706.25" x="446.25" font-family="Arial" fill="#000000">Client Process</text>
+<path d="m406.02 127.34v141.72h188.98v-141.72h-188.98z" fill-rule="evenodd" fill="#fa72c6"/>
+<text xml:space="preserve" font-size="20px" y="203.75" x="470" font-family="Arial" fill="#ffffff">Router</text>
+<path d="m406.02 512.34v141.72h188.98v-141.72h-188.98z" fill-rule="evenodd" fill="#595959"/>
+<text xml:space="preserve" font-size="20px" y="543.75" x="475" font-family="Arial" fill="#ffffff">Client</text>
+<path d="m429.69 592.66v61.406h141.72v-61.406h-141.72z" fill-rule="evenodd" fill="#bdf808"/>
+<text font-weight="bold" xml:space="preserve" font-size="20px" y="628.75" x="453.75" font-family="Arial" fill="#262626">App Code</text>
+<path d="m651.72 127.34v141.72h188.98v-141.72h-188.98z" fill-rule="evenodd" fill="#595959"/>
+<text xml:space="preserve" font-size="20px" y="158.75" x="720" font-family="Arial" fill="#ffffff">Client</text>
+<path d="m675.31 207.66v61.406h141.8v-61.406h-141.8z" fill-rule="evenodd" fill="#bdf808"/>
+<text font-weight="bold" xml:space="preserve" font-size="20px" y="243.75" x="698.75" font-family="Arial" fill="#262626">App Code</text>
+<path stroke-linejoin="round" d="m500.55 269.06v243.28" stroke="#fa72c6" stroke-linecap="round" stroke-width="6.7969px" fill="none"/>
+<path stroke-linejoin="round" d="m595 198.2h56.719" stroke="#fa72c6" stroke-linecap="round" stroke-width="6.7969px" fill="none"/>
+<path stroke-linejoin="round" d="m250.16 479.3 250.39-14.22" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+<path d="m145 455.62v47.266h210.23v-47.266h-210.23z" fill-rule="evenodd" fill="#fff"/>
+<path stroke-linejoin="round" d="m145 502.89h210.23v-47.266h-210.23v47.266z" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+<text xml:space="preserve" font-size="16.25px" y="473.75" x="183.75" font-family="Arial" fill="#000000">Session runs over</text>
+<text xml:space="preserve" font-size="16.25px" y="496.25" x="155" font-family="Arial" fill="#000000">WAMP</text>
+<text xml:space="preserve" font-size="16.25px" y="496.25" x="207.5" font-family="Arial" fill="#000000">-</text>
+<text xml:space="preserve" font-size="16.25px" y="496.25" x="212.5" font-family="Arial" fill="#000000">WebSocket </text>
+<text xml:space="preserve" font-size="16.25px" y="496.25" x="302.5" font-family="Arial" fill="#000000">/ </text>
+<text xml:space="preserve" font-size="16.25px" y="496.25" x="311.25" font-family="Arial" fill="#000000">TCP</text>
+<path stroke-linejoin="round" d="m669.45 25.703-46.09 172.5" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+<path d="m521.17 2.1094v47.266h296.48v-47.266h-296.48z" fill-rule="evenodd" fill="#fff"/>
+<path stroke-linejoin="round" d="m521.17 49.375h296.48v-47.266h-296.48v47.266z" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+<text xml:space="preserve" font-size="16.25px" y="20" x="602.5" font-family="Arial" fill="#000000">Session runs over</text>
+<text xml:space="preserve" font-size="16.25px" y="43.75" x="548.75" font-family="Arial" fill="#000000">WAMP direct calls and callbacks</text>
+<path d="m297.42 339.92c13.047 0 23.594-10.625 23.594-23.672v-188.91c0-13.047-10.547-23.672-23.594-23.672h-188.98c-13.047 0-23.672 10.625-23.672 23.672v188.91c0 13.047 10.625 23.672 23.672 23.672h188.98z" fill-rule="evenodd" fill="#a6a6a6"/>
+<path stroke-linejoin="round" d="m297.42 339.92c13.047 0 23.594-10.625 23.594-23.672v0-188.91c0-13.047-10.547-23.672-23.594-23.672h-188.98c-13.047 0-23.672 10.625-23.672 23.672v0 188.91c0 13.047 10.625 23.672 23.672 23.672v0h188.98z" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+<text xml:space="preserve" font-size="16.25px" y="321.25" x="148.75" font-family="Arial" fill="#000000">Client Process</text>
+<path d="m108.44 127.34v141.72h188.98v-141.72h-188.98z" fill-rule="evenodd" fill="#595959"/>
+<text xml:space="preserve" font-size="20px" y="158.75" x="177.5" font-family="Arial" fill="#ffffff">Client</text>
+<path d="m132.03 207.66v61.406h141.72v-61.406h-141.72z" fill-rule="evenodd" fill="#bdf808"/>
+<text font-weight="bold" xml:space="preserve" font-size="20px" y="243.75" x="156.25" font-family="Arial" fill="#262626">App Code</text>
+<path stroke-linejoin="round" d="m406.02 198.2h-108.59" stroke="#fa72c6" stroke-linecap="round" stroke-width="6.7969px" fill="none"/>
+<path stroke-linejoin="round" d="m315.08 25.703 29.53 172.5" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+<path d="m143.28 2.1094v47.266h343.67v-47.266h-343.67z" fill-rule="evenodd" fill="#fff"/>
+<path stroke-linejoin="round" d="m143.28 49.375h343.67v-47.266h-343.67v47.266z" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+<text xml:space="preserve" font-size="16.25px" y="20" x="248.75" font-family="Arial" fill="#000000">Session runs over</text>
+<text xml:space="preserve" font-size="16.25px" y="43.75" x="157.5" font-family="Arial" fill="#000000">WAMP</text>
+<text xml:space="preserve" font-size="16.25px" y="43.75" x="208.75" font-family="Arial" fill="#000000">-</text>
+<text xml:space="preserve" font-size="16.25px" y="43.75" x="215" font-family="Arial" fill="#000000">WebSocket </text>
+<text xml:space="preserve" font-size="16.25px" y="43.75" x="305" font-family="Arial" fill="#000000">/ </text>
+<text xml:space="preserve" font-size="16.25px" y="43.75" x="313.75" font-family="Arial" fill="#000000">Unix Domain Sockets</text>
+<path d="m719.06 394.22v146.48h307.03v-146.48h-307.03z" fill-rule="evenodd" fill="#c0c0c0"/>
+<path d="m704.84 380.08v146.41h307.11v-146.41h-307.11z" fill-rule="evenodd" fill="#bdf808"/>
+<text font-weight="bold" xml:space="preserve" font-size="20px" y="435" x="745" font-family="Arial" fill="#262626">Application code</text>
+<text xml:space="preserve" font-size="20px" y="435" x="911.25" font-family="Arial" fill="#262626">can be </text>
+<text xml:space="preserve" font-size="20px" y="458.75" x="716.25" font-family="Arial" fill="#262626">deployed and distributed flexibly </text>
+<text xml:space="preserve" font-size="20px" y="483.75" x="755" font-family="Arial" fill="#262626">-</text>
+<text xml:space="preserve" font-size="20px" y="483.75" x="767.5" font-family="Arial" fill="#262626">without code changes</text>
+</g>
+</g>
+</svg>
