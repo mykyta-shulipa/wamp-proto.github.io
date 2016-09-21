@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 980 612.02">
-<g transform="translate(121.63 -226.35)">
-<g transform="translate(-96.331 225.16)">
-<text xml:space="preserve" font-size="30px" y="33.75" x="767.5" font-family="Arial" fill="#000000">Router</text>
-<text xml:space="preserve" font-size="30px" y="33.75" x="335" font-family="Arial" fill="#000000">Client</text>
-<path stroke-linejoin="round" d="m809.14 321.88h-419.92" stroke="#000" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
-<path d="m390.94 328.44-13.203-6.5625 13.203-6.6406v13.203z" fill-rule="evenodd"/>
-<path d="m551.25 292.97v20h84.297v-20h-84.297z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.25px" y="307.5" x="551.25" font-family="Arial" fill="#000000">GOODBYE</text>
-<path d="m363.52 211.41v137.42h14.219v-137.42h-14.219z" fill-rule="evenodd" fill="#fa72c6"/>
-<path d="m810 211.41v137.42h14.141v-137.42h-14.141z" fill-rule="evenodd" fill="#fa72c6"/>
-<path stroke-linejoin="round" d="m377.73 246.25h419.84" stroke="#000" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
-<path d="m795.94 239.69 13.203 6.5625-13.203 6.6406v-13.203z" fill-rule="evenodd"/>
-<path d="m551.25 217.34v20h84.297v-20h-84.297z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.25px" y="232.5" x="551.25" font-family="Arial" fill="#000000">GOODBYE</text>
-<path stroke-linejoin="round" d="m809.14 500h-419.92" stroke="#000" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
-<path d="m390.94 506.64-13.21-6.64l13.203-6.5625v13.203z" fill-rule="evenodd"/>
-<path d="m551.25 471.09v20h84.297v-20h-84.297z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.25px" y="486.25" x="551.25" font-family="Arial" fill="#000000">GOODBYE</text>
-<path d="m363.52 466.95v137.34h14.219v-137.34h-14.219z" fill-rule="evenodd" fill="#fa72c6"/>
-<path d="m810 466.95v137.34h14.141v-137.34h-14.141z" fill-rule="evenodd" fill="#fa72c6"/>
-<path stroke-linejoin="round" d="m378.59 575.62h419.84" stroke="#000" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
-<path d="m796.8 568.98 13.2 6.64l-13.203 6.5625v-13.203z" fill-rule="evenodd"/>
-<path d="m552.11 546.72v20h84.297v-20h-84.297z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.25px" y="561.25" x="552.5" font-family="Arial" fill="#000000">GOODBYE</text>
-<path stroke-linejoin="round" d="m299.77 159.84h141.72" stroke="#fa72c6" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
-<path stroke-linejoin="round" d="m781.64 112.58h141.72" stroke="#fa72c6" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
-<path stroke-linejoin="round" d="m441.48 159.84 340.16-47.26" stroke="#fa72c6" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
-<text xml:space="preserve" font-size="20px" y="91.25" x="562.5" font-family="Arial" fill="#000000">Session </text>
-<text xml:space="preserve" font-size="20px" y="115" x="547.5" font-family="Arial" fill="#000000">established</text>
-<text font-weight="bold" xml:space="preserve" font-size="20px" y="416.25" x="583.75" font-family="Arial" fill="#000000">OR</text>
-<path stroke-linejoin="round" d="m134.38 437.19 385-26.953" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
-<path d="m2.1094 390v94.453h264.53v-94.453h-264.53z" fill-rule="evenodd" fill="#fff"/>
-<path stroke-linejoin="round" d="m2.1094 484.45h264.53v-94.453h-264.53v94.453z" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
-<text xml:space="preserve" font-size="20px" y="418.75" x="37.5" font-family="Arial" fill="#000000">Session close may be </text>
-<text xml:space="preserve" font-size="20px" y="443.75" x="35" font-family="Arial" fill="#000000">initiated by both Peers </text>
-<text xml:space="preserve" font-size="20px" y="467.5" x="47.5" font-family="Arial" fill="#000000">(</text>
-<text font-weight="bold" xml:space="preserve" font-size="20px" y="467.5" x="53.75" font-family="Arial" fill="#000000">Client </text>
-<text xml:space="preserve" font-size="20px" y="467.5" x="115" font-family="Arial" fill="#000000">OR </text>
-<text font-weight="bold" xml:space="preserve" font-size="20px" y="467.5" x="150" font-family="Arial" fill="#000000">Router</text>
-<text xml:space="preserve" font-size="20px" y="467.5" x="215" font-family="Arial" fill="#000000">)</text>
-</g>
-</g>
+ <g transform="translate(121.63 -226.35)">
+  <g transform="translate(-96.331 225.16)">
+   <text xml:space="preserve" font-size="30px" y="33.75" x="767.5" font-family="Arial" fill="#000000">Router</text>
+   <text xml:space="preserve" font-size="30px" y="33.75" x="335" font-family="Arial" fill="#000000">Client</text>
+   <path stroke-linejoin="round" d="m809.14 321.88h-419.92" stroke="#000" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
+   <path d="m390.94 328.44-13.203-6.5625 13.203-6.6406v13.203z" fill-rule="evenodd"/>
+   <path d="m551.25 292.97v20h84.297v-20h-84.297z" fill-rule="evenodd" fill="#fff"/>
+   <text xml:space="preserve" font-size="16.25px" y="307.5" x="551.25" font-family="Arial" fill="#000000">GOODBYE</text>
+   <path d="m363.52 211.41v137.42h14.219v-137.42h-14.219z" fill-rule="evenodd" fill="#fa72c6"/>
+   <path d="m810 211.41v137.42h14.141v-137.42h-14.141z" fill-rule="evenodd" fill="#fa72c6"/>
+   <path stroke-linejoin="round" d="m377.73 246.25h419.84" stroke="#000" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
+   <path d="m795.94 239.69 13.203 6.5625-13.203 6.6406v-13.203z" fill-rule="evenodd"/>
+   <path d="m551.25 217.34v20h84.297v-20h-84.297z" fill-rule="evenodd" fill="#fff"/>
+   <text xml:space="preserve" font-size="16.25px" y="232.5" x="551.25" font-family="Arial" fill="#000000">GOODBYE</text>
+   <path stroke-linejoin="round" d="m809.14 500h-419.92" stroke="#000" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
+   <path d="m390.94 506.64-13.21-6.64l13.203-6.5625v13.203z" fill-rule="evenodd"/>
+   <path d="m551.25 471.09v20h84.297v-20h-84.297z" fill-rule="evenodd" fill="#fff"/>
+   <text xml:space="preserve" font-size="16.25px" y="486.25" x="551.25" font-family="Arial" fill="#000000">GOODBYE</text>
+   <path d="m363.52 466.95v137.34h14.219v-137.34h-14.219z" fill-rule="evenodd" fill="#fa72c6"/>
+   <path d="m810 466.95v137.34h14.141v-137.34h-14.141z" fill-rule="evenodd" fill="#fa72c6"/>
+   <path stroke-linejoin="round" d="m378.59 575.62h419.84" stroke="#000" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
+   <path d="m796.8 568.98 13.2 6.64l-13.203 6.5625v-13.203z" fill-rule="evenodd"/>
+   <path d="m552.11 546.72v20h84.297v-20h-84.297z" fill-rule="evenodd" fill="#fff"/>
+   <text xml:space="preserve" font-size="16.25px" y="561.25" x="552.5" font-family="Arial" fill="#000000">GOODBYE</text>
+   <path stroke-linejoin="round" d="m299.77 159.84h141.72" stroke="#fa72c6" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
+   <path stroke-linejoin="round" d="m781.64 112.58h141.72" stroke="#fa72c6" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
+   <path stroke-linejoin="round" d="m441.48 159.84 340.16-47.26" stroke="#fa72c6" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
+   <text xml:space="preserve" font-size="20px" y="91.25" x="562.5" font-family="Arial" fill="#000000">Session </text>
+   <text xml:space="preserve" font-size="20px" y="115" x="547.5" font-family="Arial" fill="#000000">established</text>
+   <text font-weight="bold" xml:space="preserve" font-size="20px" y="416.25" x="583.75" font-family="Arial" fill="#000000">OR</text>
+   <path stroke-linejoin="round" d="m134.38 437.19 385-26.953" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+   <path d="m2.1094 390v94.453h264.53v-94.453h-264.53z" fill-rule="evenodd" fill="#fff"/>
+   <path stroke-linejoin="round" d="m2.1094 484.45h264.53v-94.453h-264.53v94.453z" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+   <text xml:space="preserve" font-size="20px" y="418.75" x="37.5" font-family="Arial" fill="#000000">Session close may be </text>
+   <text xml:space="preserve" font-size="20px" y="443.75" x="35" font-family="Arial" fill="#000000">initiated by both Peers </text>
+   <text xml:space="preserve" font-size="20px" y="467.5" x="47.5" font-family="Arial" fill="#000000">(</text>
+   <text font-weight="bold" xml:space="preserve" font-size="20px" y="467.5" x="53.75" font-family="Arial" fill="#000000">Client </text>
+   <text xml:space="preserve" font-size="20px" y="467.5" x="115" font-family="Arial" fill="#000000">OR </text>
+   <text font-weight="bold" xml:space="preserve" font-size="20px" y="467.5" x="150" font-family="Arial" fill="#000000">Router</text>
+   <text xml:space="preserve" font-size="20px" y="467.5" x="215" font-family="Arial" fill="#000000">)</text>
+  </g>
+ </g>
 </svg>

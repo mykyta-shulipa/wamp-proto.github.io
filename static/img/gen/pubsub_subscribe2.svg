@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1357.4 585.99">
-<g transform="translate(744.58 156.54)">
-<g transform="translate(-739.51 -158.32)">
-<path stroke-linejoin="round" d="m1261.6 128.82h-376.07" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
-<path d="m887.22 135.39-13.211-6.5662 13.211-6.6444v13.211z" fill-rule="evenodd"/>
-<path d="m1019.6 99.9v20.011h96.382v-20.011h-96.382z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.259px" y="115.06468" x="1019.323" font-family="Arial" fill="#000000">SUBSCRIBE</text>
-<path d="m859.78 76.449v501.45h14.227v-501.45h-14.227z" fill-rule="evenodd" fill="#fa72c6"/>
-<path d="m439.07 76.449v501.45h14.227v-501.45h-14.227z" fill-rule="evenodd" fill="#fa72c6"/>
-<path d="m1261.6 76.449v501.45h14.149v-501.45h-14.149z" fill-rule="evenodd" fill="#fa72c6"/>
-<path stroke-linejoin="round" d="m1261.6 407.73h-376.07" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
-<path d="m887.22 414.3-13.211-6.5662 13.211-6.6444v13.211z" fill-rule="evenodd"/>
-<path d="m1007.6 378.81v20.011h120.46v-20.011h-120.46z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.259px" y="393.97147" x="1008.0667" font-family="Arial" fill="#000000">UNSUBSCRIBE</text>
-<text xml:space="preserve" font-size="30.017px" y="33.768986" x="386.46725" font-family="Arial" fill="#000000">Broker </text>
-<text xml:space="preserve" font-size="30.017px" y="33.768986" x="484.02209" font-family="Arial" fill="#000000">1</text>
-<text xml:space="preserve" font-size="30.017px" y="33.768986" x="1198.1736" font-family="Arial" fill="#000000">Subscriber</text>
-<text xml:space="preserve" font-size="30.017px" y="33.768986" x="810.45563" font-family="Arial" fill="#000000">Broker </text>
-<text xml:space="preserve" font-size="30.017px" y="33.768986" x="906.75977" font-family="Arial" fill="#000000">2</text>
-<path stroke-linejoin="round" d="m874.01 247.01h376.07" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
-<path d="m1248.4 240.37 13.21 6.6444-13.21 6.5662v-13.211z" fill-rule="evenodd"/>
-<path d="m971.41 218.09v20.011h192.76v-20.011h-192.76z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.259px" y="232.63078" x="971.79633" font-family="Arial" fill="#000000">SUBSCRIBED or ERROR</text>
-<path stroke-linejoin="round" d="m874.01 525.92h376.07" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
-<path d="m1248.4 519.28 13.21 6.6444-13.21 6.5662v-13.211z" fill-rule="evenodd"/>
-<path d="m959.37 497v20.011h216.84v-20.011h-216.84z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.259px" y="511.53757" x="959.28925" font-family="Arial" fill="#000000">UNSUBSCRIBED or ERROR</text>
-<path stroke-linejoin="round" d="m855.09 152.43h-390.22" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
-<path d="m466.51 159.07-13.211-6.6444 13.211-6.5662v13.211z" fill-rule="evenodd"/>
-<path d="m605.97 123.51v20.011h96.382v-20.011h-96.382z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.259px" y="138.82803" x="605.34027" font-family="Arial" fill="#000000">SUBSCRIBE</text>
-<path stroke-linejoin="round" d="m453.3 223.33h390.22" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
-<path d="m841.88 216.76 13.211 6.5662-13.211 6.6444v-13.211z" fill-rule="evenodd"/>
-<path d="m557.81 194.41v20.011h192.76v-20.011h-192.76z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.259px" y="208.86742" x="557.8136" font-family="Arial" fill="#000000">SUBSCRIBED or ERROR</text>
-<path stroke-linejoin="round" d="m855.09 431.34h-390.22" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
-<path d="m466.51 437.98-13.211-6.6444 13.211-6.5662v13.211z" fill-rule="evenodd"/>
-<path d="m593.93 402.41v20.011h120.46v-20.011h-120.46z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.259px" y="417.73483" x="594.08398" font-family="Arial" fill="#000000">UNSUBSCRIBE</text>
-<path stroke-linejoin="round" d="m453.3 502.24h390.22" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
-<path d="m841.88 495.67 13.211 6.5662-13.211 6.6444v-13.211z" fill-rule="evenodd"/>
-<path d="m545.78 473.31v20.011h216.84v-20.011h-216.84z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.259px" y="487.7742" x="545.30658" font-family="Arial" fill="#000000">UNSUBSCRIBED or ERROR</text>
-<path d="m46.745 75.668v501.45h14.227v-501.45h-14.227z" fill-rule="evenodd" fill="#fa72c6"/>
-<text xml:space="preserve" font-size="30.017px" y="33.768986" x="2.5014062" font-family="Arial" fill="#000000">Publisher</text>
-</g>
-</g>
+ <g transform="translate(744.58 156.54)">
+  <g transform="translate(-739.51 -158.32)">
+   <path stroke-linejoin="round" d="m1261.6 128.82h-376.07" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+   <path d="m887.22 135.39-13.211-6.5662 13.211-6.6444v13.211z" fill-rule="evenodd"/>
+   <path d="m1019.6 99.9v20.011h96.382v-20.011h-96.382z" fill-rule="evenodd" fill="#fff"/>
+   <text xml:space="preserve" font-size="16.259px" y="115.06468" x="1019.323" font-family="Arial" fill="#000000">SUBSCRIBE</text>
+   <path d="m859.78 76.449v501.45h14.227v-501.45h-14.227z" fill-rule="evenodd" fill="#fa72c6"/>
+   <path d="m439.07 76.449v501.45h14.227v-501.45h-14.227z" fill-rule="evenodd" fill="#fa72c6"/>
+   <path d="m1261.6 76.449v501.45h14.149v-501.45h-14.149z" fill-rule="evenodd" fill="#fa72c6"/>
+   <path stroke-linejoin="round" d="m1261.6 407.73h-376.07" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+   <path d="m887.22 414.3-13.211-6.5662 13.211-6.6444v13.211z" fill-rule="evenodd"/>
+   <path d="m1007.6 378.81v20.011h120.46v-20.011h-120.46z" fill-rule="evenodd" fill="#fff"/>
+   <text xml:space="preserve" font-size="16.259px" y="393.97147" x="1008.0667" font-family="Arial" fill="#000000">UNSUBSCRIBE</text>
+   <text xml:space="preserve" font-size="30.017px" y="33.768986" x="386.46725" font-family="Arial" fill="#000000">Broker </text>
+   <text xml:space="preserve" font-size="30.017px" y="33.768986" x="484.02209" font-family="Arial" fill="#000000">1</text>
+   <text xml:space="preserve" font-size="30.017px" y="33.768986" x="1198.1736" font-family="Arial" fill="#000000">Subscriber</text>
+   <text xml:space="preserve" font-size="30.017px" y="33.768986" x="810.45563" font-family="Arial" fill="#000000">Broker </text>
+   <text xml:space="preserve" font-size="30.017px" y="33.768986" x="906.75977" font-family="Arial" fill="#000000">2</text>
+   <path stroke-linejoin="round" d="m874.01 247.01h376.07" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+   <path d="m1248.4 240.37 13.21 6.6444-13.21 6.5662v-13.211z" fill-rule="evenodd"/>
+   <path d="m971.41 218.09v20.011h192.76v-20.011h-192.76z" fill-rule="evenodd" fill="#fff"/>
+   <text xml:space="preserve" font-size="16.259px" y="232.63078" x="971.79633" font-family="Arial" fill="#000000">SUBSCRIBED or ERROR</text>
+   <path stroke-linejoin="round" d="m874.01 525.92h376.07" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+   <path d="m1248.4 519.28 13.21 6.6444-13.21 6.5662v-13.211z" fill-rule="evenodd"/>
+   <path d="m959.37 497v20.011h216.84v-20.011h-216.84z" fill-rule="evenodd" fill="#fff"/>
+   <text xml:space="preserve" font-size="16.259px" y="511.53757" x="959.28925" font-family="Arial" fill="#000000">UNSUBSCRIBED or ERROR</text>
+   <path stroke-linejoin="round" d="m855.09 152.43h-390.22" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+   <path d="m466.51 159.07-13.211-6.6444 13.211-6.5662v13.211z" fill-rule="evenodd"/>
+   <path d="m605.97 123.51v20.011h96.382v-20.011h-96.382z" fill-rule="evenodd" fill="#fff"/>
+   <text xml:space="preserve" font-size="16.259px" y="138.82803" x="605.34027" font-family="Arial" fill="#000000">SUBSCRIBE</text>
+   <path stroke-linejoin="round" d="m453.3 223.33h390.22" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+   <path d="m841.88 216.76 13.211 6.5662-13.211 6.6444v-13.211z" fill-rule="evenodd"/>
+   <path d="m557.81 194.41v20.011h192.76v-20.011h-192.76z" fill-rule="evenodd" fill="#fff"/>
+   <text xml:space="preserve" font-size="16.259px" y="208.86742" x="557.8136" font-family="Arial" fill="#000000">SUBSCRIBED or ERROR</text>
+   <path stroke-linejoin="round" d="m855.09 431.34h-390.22" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+   <path d="m466.51 437.98-13.211-6.6444 13.211-6.5662v13.211z" fill-rule="evenodd"/>
+   <path d="m593.93 402.41v20.011h120.46v-20.011h-120.46z" fill-rule="evenodd" fill="#fff"/>
+   <text xml:space="preserve" font-size="16.259px" y="417.73483" x="594.08398" font-family="Arial" fill="#000000">UNSUBSCRIBE</text>
+   <path stroke-linejoin="round" d="m453.3 502.24h390.22" stroke="#000" stroke-linecap="round" stroke-width="3.5958px" fill="none"/>
+   <path d="m841.88 495.67 13.211 6.5662-13.211 6.6444v-13.211z" fill-rule="evenodd"/>
+   <path d="m545.78 473.31v20.011h216.84v-20.011h-216.84z" fill-rule="evenodd" fill="#fff"/>
+   <text xml:space="preserve" font-size="16.259px" y="487.7742" x="545.30658" font-family="Arial" fill="#000000">UNSUBSCRIBED or ERROR</text>
+   <path d="m46.745 75.668v501.45h14.227v-501.45h-14.227z" fill-rule="evenodd" fill="#fa72c6"/>
+   <text xml:space="preserve" font-size="30.017px" y="33.768986" x="2.5014062" font-family="Arial" fill="#000000">Publisher</text>
+  </g>
+ </g>
 </svg>

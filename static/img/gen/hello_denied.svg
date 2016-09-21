@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 980 421.66">
-<g transform="translate(615.46 -50.099)">
-<g transform="translate(-443.37 47.823)">
-<g transform="translate(-17.477 -2.1294)">
-<path stroke-linejoin="round" d="m577.81 186.8h-419.92" stroke="#000" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
-<path d="m159.61 193.44-13.203-6.6406 13.203-6.5625v13.203z" fill-rule="evenodd"/>
-<path d="m333.36 157.89v20h57.422v-20h-57.422z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.25px" y="172.5" x="333.75" font-family="Arial" fill="#000000">ABORT</text>
-<path d="m132.19 76.406v153.12h14.219v-153.12h-14.219z" fill-rule="evenodd" fill="#fa72c6"/>
-<path d="m578.67 76.406v153.12h14.141v-153.12h-14.141z" fill-rule="evenodd" fill="#fa72c6"/>
-<text xml:space="preserve" font-size="30px" y="33.75" x="533.75" font-family="Arial" fill="#000000">Router</text>
-<text xml:space="preserve" font-size="30px" y="33.75" x="101.25" font-family="Arial" fill="#000000">Client</text>
-<path stroke-linejoin="round" d="m146.41 111.25h417.03" stroke="#000" stroke-linecap="round" stroke-width="5.2344px" fill="none"/>
-<path d="m561.41 103.05 16.406 8.2031-16.406 8.2031v-16.406z" fill-rule="evenodd"/>
-<path d="m334.77 82.344v20h54.688v-20h-54.688z" fill-rule="evenodd" fill="#fff"/>
-<text xml:space="preserve" font-size="16.25px" y="97.5" x="335" font-family="Arial" fill="#000000">HELLO</text>
-<path stroke-linejoin="round" d="m124.92 366.56 259.85-179.76" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
-<path d="m2.1094 319.3v94.453h245.7v-94.453h-245.7z" fill-rule="evenodd" fill="#fff"/>
-<path stroke-linejoin="round" d="m2.1094 413.75h245.7v-94.453h-245.7v94.453z" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
-<text xml:space="preserve" font-size="20px" y="360" x="25" font-family="Arial" fill="#000000">Session establishment </text>
-<text xml:space="preserve" font-size="20px" y="385" x="46.25" font-family="Arial" fill="#000000">denied by </text>
-<text font-weight="bold" xml:space="preserve" font-size="20px" y="385" x="138.75" font-family="Arial" fill="#000000">Router</text>
-</g>
-</g>
-</g>
+ <g transform="translate(615.46 -50.099)">
+  <g transform="translate(-443.37 47.823)">
+   <g transform="translate(-17.477 -2.1294)">
+    <path stroke-linejoin="round" d="m577.81 186.8h-419.92" stroke="#000" stroke-linecap="round" stroke-width="3.5938px" fill="none"/>
+    <path d="m159.61 193.44-13.203-6.6406 13.203-6.5625v13.203z" fill-rule="evenodd"/>
+    <path d="m333.36 157.89v20h57.422v-20h-57.422z" fill-rule="evenodd" fill="#fff"/>
+    <text xml:space="preserve" font-size="16.25px" y="172.5" x="333.75" font-family="Arial" fill="#000000">ABORT</text>
+    <path d="m132.19 76.406v153.12h14.219v-153.12h-14.219z" fill-rule="evenodd" fill="#fa72c6"/>
+    <path d="m578.67 76.406v153.12h14.141v-153.12h-14.141z" fill-rule="evenodd" fill="#fa72c6"/>
+    <text xml:space="preserve" font-size="30px" y="33.75" x="533.75" font-family="Arial" fill="#000000">Router</text>
+    <text xml:space="preserve" font-size="30px" y="33.75" x="101.25" font-family="Arial" fill="#000000">Client</text>
+    <path stroke-linejoin="round" d="m146.41 111.25h417.03" stroke="#000" stroke-linecap="round" stroke-width="5.2344px" fill="none"/>
+    <path d="m561.41 103.05 16.406 8.2031-16.406 8.2031v-16.406z" fill-rule="evenodd"/>
+    <path d="m334.77 82.344v20h54.688v-20h-54.688z" fill-rule="evenodd" fill="#fff"/>
+    <text xml:space="preserve" font-size="16.25px" y="97.5" x="335" font-family="Arial" fill="#000000">HELLO</text>
+    <path stroke-linejoin="round" d="m124.92 366.56 259.85-179.76" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+    <path d="m2.1094 319.3v94.453h245.7v-94.453h-245.7z" fill-rule="evenodd" fill="#fff"/>
+    <path stroke-linejoin="round" d="m2.1094 413.75h245.7v-94.453h-245.7v94.453z" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+    <text xml:space="preserve" font-size="20px" y="360" x="25" font-family="Arial" fill="#000000">Session establishment </text>
+    <text xml:space="preserve" font-size="20px" y="385" x="46.25" font-family="Arial" fill="#000000">denied by </text>
+    <text font-weight="bold" xml:space="preserve" font-size="20px" y="385" x="138.75" font-family="Arial" fill="#000000">Router</text>
+   </g>
+  </g>
+ </g>
 </svg>
