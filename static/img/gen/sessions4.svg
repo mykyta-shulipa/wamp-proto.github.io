@@ -1,116 +1,116 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 936.59 887.49">
- <g transform="translate(118.3 -88.617)">
-  <g transform="translate(-111.27 86.342)">
-   <path d="m188.91 308.67v141.72h14.141v-141.72h-14.141z" fill-rule="evenodd" fill="#fa72c6"/>
-   <text xml:space="preserve" font-size="30px" y="35" x="121.25" font-family="Arial" fill="#000000">Peer</text>
-   <path d="m146.41 96.094v779.53h14.141v-779.53h-14.141z" fill-rule="evenodd" fill="#404040"/>
-   <path d="m160.55 166.95v637.73h14.141v-637.73h-14.141z" fill-rule="evenodd" fill="#737373"/>
-   <path d="m174.69 237.81v496.02h14.219v-496.02h-14.219z" fill-rule="evenodd" fill="#8c8c8c"/>
-   <path d="m746.41 96.094v779.53h14.141v-779.53h-14.141z" fill-rule="evenodd" fill="#404040"/>
-   <path d="m732.19 166.95v637.73h14.219v-637.73h-14.219z" fill-rule="evenodd" fill="#737373"/>
-   <path stroke-linejoin="round" d="m166.88 96.094h573.12" stroke="#595959" stroke-linecap="round" stroke-width="1.1719px" fill="none"/>
-   <path d="m160.55 96.094 8.4375-4.2188c-1.3281 2.6562-1.3281 5.7031 0 8.3594l-8.4375-4.1406z" fill-rule="evenodd" fill="#595959"/>
-   <path d="m746.41 96.094-8.4375 4.1406c1.3281-2.6563 1.3281-5.7031 0-8.3594l8.4375 4.2188z" fill-rule="evenodd" fill="#595959"/>
-   <path d="m380.08 65.156v23.984h146.72v-23.984h-146.72z" fill-rule="evenodd" fill="#fff"/>
-   <text xml:space="preserve" font-size="20px" y="83.75" x="380" font-family="Arial" fill="#000000">TCP established</text>
-   <path stroke-linejoin="round" d="m173.98 166.95h551.88" stroke="#595959" stroke-linecap="round" stroke-width="1.1719px" fill="none"/>
-   <path d="m167.66 166.95 8.3594-4.2187c-1.3281 2.6562-1.3281 5.7812 0 8.3594l-8.3594-4.1406z" fill-rule="evenodd" fill="#595959"/>
-   <path d="m732.19 166.95-8.3594 4.1406c1.3281-2.5781 1.3281-5.7031 0-8.3594l8.3594 4.2187z" fill-rule="evenodd" fill="#595959"/>
-   <path d="m378.2 136.02v23.984h143.44v-23.984h-143.44z" fill-rule="evenodd" fill="#fff"/>
-   <text xml:space="preserve" font-size="20px" y="153.75" x="378.75" font-family="Arial" fill="#000000">TLS established</text>
-   <path stroke-linejoin="round" d="m195.23 237.81 516.41 0.39062" stroke="#595959" stroke-linecap="round" stroke-width="1.1719px" fill="none"/>
-   <path d="m188.91 237.81 8.3594-4.2188c-1.3281 2.6562-1.3281 5.7812 0 8.4375l-8.3594-4.2188z" fill-rule="evenodd" fill="#595959"/>
-   <path d="m718.05 238.2-8.4375 4.2188c1.3281-2.6563 1.3281-5.7813 0-8.4375l8.4375 4.2187z" fill-rule="evenodd" fill="#595959"/>
-   <path d="m348.98 231.02 208.98 0.15626v-23.984l-208.98-0.15625v23.984z" fill-rule="evenodd" fill="#fff"/>
-   <text xml:space="preserve" font-size="20px" y="225" x="348.75" font-family="Arial" fill="#000000">W</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="367.5" font-family="Arial" fill="#000000">e</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="378.75" font-family="Arial" fill="#000000">b</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="390" font-family="Arial" fill="#000000">S</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="403.75" font-family="Arial" fill="#000000">o</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="415" font-family="Arial" fill="#000000">c</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="425" font-family="Arial" fill="#000000">k</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="435" font-family="Arial" fill="#000000">e</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="446.25" font-family="Arial" fill="#000000">t</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="451.25" font-family="Arial" fill="#000000"> </text>
-   <text xml:space="preserve" font-size="20px" y="225" x="456.25" font-family="Arial" fill="#000000">e</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="467.5" font-family="Arial" fill="#000000">s</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="477.5" font-family="Arial" fill="#000000">t</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="483.75" font-family="Arial" fill="#000000">a</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="495" font-family="Arial" fill="#000000">b</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="506.25" font-family="Arial" fill="#000000">l</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="510" font-family="Arial" fill="#000000">i</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="515" font-family="Arial" fill="#000000">s</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="525" font-family="Arial" fill="#000000">h</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="536.25" font-family="Arial" fill="#000000">e</text>
-   <text xml:space="preserve" font-size="20px" y="225" x="546.25" font-family="Arial" fill="#000000">d</text>
-   <path d="m718.05 238.2v495.62h14.141v-495.62h-14.141z" fill-rule="evenodd" fill="#8c8c8c"/>
-   <path d="m188.91 521.25v141.72h14.141v-141.72h-14.141z" fill-rule="evenodd" fill="#fa72c6"/>
-   <path d="m703.83 308.67v141.72h14.219v-141.72h-14.219z" fill-rule="evenodd" fill="#fa72c6"/>
-   <path d="m703.83 521.25v141.72h14.219v-141.72h-14.219z" fill-rule="evenodd" fill="#fa72c6"/>
-   <path stroke-linejoin="round" d="m210.62 308.67h485.62" stroke="#fa72c6" stroke-linecap="round" stroke-width="2.0312px" fill="none"/>
-   <path d="m203.05 308.67 10-5c-1.5625 3.125-1.5625 6.875 0 10l-10-5z" fill-rule="evenodd" fill="#fa72c6"/>
-   <path d="m703.83 308.67-10 5c1.5625-3.125 1.5625-6.875 0-10l10 5z" fill-rule="evenodd" fill="#fa72c6"/>
-   <path d="m363.98 277.73v24.062h178.91v-24.062h-178.91z" fill-rule="evenodd" fill="#fff"/>
-   <text font-weight="bold" xml:space="preserve" font-size="20px" y="296.25" x="363.75" font-family="Arial" fill="#fa72c6">WAMP established</text>
-   <path stroke-linejoin="round" d="m210.62 450.39h485.62" stroke="#fa72c6" stroke-linecap="round" stroke-width="2.0312px" fill="none"/>
-   <path d="m203.05 450.39 10-5c-1.5625 3.125-1.5625 6.875 0 10l-10-5z" fill-rule="evenodd" fill="#fa72c6"/>
-   <path d="m703.83 450.39-10 5c1.5625-3.125 1.5625-6.875 0-10l10 5z" fill-rule="evenodd" fill="#fa72c6"/>
-   <path d="m387.34 419.53v23.984h132.27v-23.984h-132.27z" fill-rule="evenodd" fill="#fff"/>
-   <text font-weight="bold" xml:space="preserve" font-size="20px" y="437.5" x="387.5" font-family="Arial" fill="#fa72c6">WAMP closed</text>
-   <path stroke-linejoin="round" d="m210.62 662.97h485.62" stroke="#fa72c6" stroke-linecap="round" stroke-width="2.0312px" fill="none"/>
-   <path d="m203.05 662.97 10-5c-1.5625 3.2031-1.5625 6.875 0 10l-10-5z" fill-rule="evenodd" fill="#fa72c6"/>
-   <path d="m703.83 662.97-10 5c1.5625-3.125 1.5625-6.7969 0-10l10 5z" fill-rule="evenodd" fill="#fa72c6"/>
-   <path d="m387.34 632.11v23.984h132.27v-23.984h-132.27z" fill-rule="evenodd" fill="#fff"/>
-   <text font-weight="bold" xml:space="preserve" font-size="20px" y="650" x="387.5" font-family="Arial" fill="#fa72c6">WAMP closed</text>
-   <path stroke-linejoin="round" d="m210.62 521.25h485.62" stroke="#fa72c6" stroke-linecap="round" stroke-width="2.0312px" fill="none"/>
-   <path d="m203.05 521.25 10-5c-1.5625 3.125-1.5625 6.875 0 10l-10-5z" fill-rule="evenodd" fill="#fa72c6"/>
-   <path d="m703.83 521.25-10 5c1.5625-3.125 1.5625-6.875 0-10l10 5z" fill-rule="evenodd" fill="#fa72c6"/>
-   <path d="m363.98 490.39v23.984h178.91v-23.984h-178.91z" fill-rule="evenodd" fill="#fff"/>
-   <text font-weight="bold" xml:space="preserve" font-size="20px" y="508.75" x="363.75" font-family="Arial" fill="#fa72c6">WAMP established</text>
-   <path stroke-linejoin="round" d="m195.23 733.44 516.41 0.39062" stroke="#595959" stroke-linecap="round" stroke-width="1.1719px" fill="none"/>
-   <path d="m188.91 733.44 8.3594-4.1406c-1.3281 2.5781-1.3281 5.7031 0 8.3594l-8.3594-4.2188z" fill-rule="evenodd" fill="#595959"/>
-   <path d="m718.05 733.83-8.4375 4.2188c1.3281-2.6563 1.3281-5.7813 0-8.3594l8.4375 4.1406z" fill-rule="evenodd" fill="#595959"/>
-   <path d="m370.62 726.72 165.62 0.0781 0.0781-23.984-165.7-0.15625v24.062z" fill-rule="evenodd" fill="#fff"/>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="370" font-family="Arial" fill="#000000">W</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="390" font-family="Arial" fill="#000000">e</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="400" font-family="Arial" fill="#000000">b</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="411.25" font-family="Arial" fill="#000000">S</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="425" font-family="Arial" fill="#000000">o</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="436.25" font-family="Arial" fill="#000000">c</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="446.25" font-family="Arial" fill="#000000">k</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="456.25" font-family="Arial" fill="#000000">e</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="467.5" font-family="Arial" fill="#000000">t</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="472.5" font-family="Arial" fill="#000000"> </text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="478.75" font-family="Arial" fill="#000000">c</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="488.75" font-family="Arial" fill="#000000">l</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="492.5" font-family="Arial" fill="#000000">o</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="503.75" font-family="Arial" fill="#000000">s</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="513.75" font-family="Arial" fill="#000000">e</text>
-   <text xml:space="preserve" font-size="20px" y="721.25" x="525" font-family="Arial" fill="#000000">d</text>
-   <path stroke-linejoin="round" d="m181.09 804.69h551.8" stroke="#595959" stroke-linecap="round" stroke-width="1.1719px" fill="none"/>
-   <path d="m174.69 804.69 8.4375-4.1406c-1.3281 2.6562-1.3281 5.7031 0 8.3594l-8.4375-4.2188z" fill-rule="evenodd" fill="#595959"/>
-   <path d="m739.3 804.69-8.4375 4.2188c1.3281-2.6562 1.3281-5.7031 0-8.3594l8.4375 4.1406z" fill-rule="evenodd" fill="#595959"/>
-   <path d="m406.95 773.83v23.984h100.08v-23.984h-100.08z" fill-rule="evenodd" fill="#fff"/>
-   <text xml:space="preserve" font-size="20px" y="791.25" x="407.5" font-family="Arial" fill="#000000">TLS closed</text>
-   <path stroke-linejoin="round" d="m166.88 875.62h573.12" stroke="#595959" stroke-linecap="round" stroke-width="1.1719px" fill="none"/>
-   <path d="m160.55 875.62 8.4375-4.2188c-1.3281 2.6562-1.3281 5.7031 0 8.3594l-8.4375-4.1406z" fill-rule="evenodd" fill="#595959"/>
-   <path d="m746.41 875.62-8.4375 4.1406c1.3281-2.6562 1.3281-5.7031 0-8.3594l8.4375 4.2188z" fill-rule="evenodd" fill="#595959"/>
-   <path d="m401.8 844.69v23.984h103.36v-23.984h-103.36z" fill-rule="evenodd" fill="#fff"/>
-   <text xml:space="preserve" font-size="20px" y="862.5" x="401.25" font-family="Arial" fill="#000000">TCP closed</text>
-   <path stroke-linejoin="round" d="m184.14 733.83h-56.953c-8.9844 0-16.25-7.2656-16.25-16.172v0 0-220.31c0-8.9844-7.2656-16.25-16.25-16.25v0c8.9844 0 16.25-7.2656 16.25-16.25v0-210.78c0-8.9844 7.2656-16.25 16.25-16.25v0h56.953" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
-   <text xml:space="preserve" font-size="20px" y="462.5" x="13.75" font-family="Arial" fill="#000000">WAMP </text>
-   <text xml:space="preserve" font-size="20px" y="487.5" x="2.5" font-family="Arial" fill="#000000">Transport </text>
-   <text xml:space="preserve" font-size="20px" y="511.25" x="10" font-family="Arial" fill="#000000">Lifetime</text>
-   <path stroke-linejoin="round" d="m713.28 308.67h66.484c8.9063 0 16.25 7.2656 16.25 16.25v0 0 38.359c0 8.9844 7.2656 16.25 16.172 16.25v0c-8.9062 0-16.172 7.2656-16.172 16.25v0 0 38.359c0 8.9844-7.3437 16.25-16.25 16.25v0h-66.484" stroke="#fa72c6" stroke-linecap="round" stroke-width="2.0312px" fill="none"/>
-   <text xml:space="preserve" font-size="23.75px" y="358.75" x="833.75" font-family="Arial" fill="#fa72c6">WAMP </text>
-   <text xml:space="preserve" font-size="23.75px" y="386.25" x="828.75" font-family="Arial" fill="#fa72c6">Session </text>
-   <text xml:space="preserve" font-size="23.75px" y="415" x="830" font-family="Arial" fill="#fa72c6">Lifetime</text>
-   <text xml:space="preserve" font-size="30px" y="33.75" x="721.25" font-family="Arial" fill="#000000">Peer</text>
-   <path stroke-linejoin="round" d="m719.22 521.25h66.406c8.9844 0 16.25 7.2656 16.25 16.25v0 43.125c0 8.9844 7.2656 16.25 16.25 16.25v0c-8.9844 0-16.25 7.2656-16.25 16.172v0 33.672c0 8.9844-7.2656 16.25-16.25 16.25v0 0h-66.406" stroke="#fa72c6" stroke-linecap="round" stroke-width="2.0312px" fill="none"/>
-   <text xml:space="preserve" font-size="23.75px" y="576.25" x="840" font-family="Arial" fill="#fa72c6">WAMP </text>
-   <text xml:space="preserve" font-size="23.75px" y="603.75" x="835" font-family="Arial" fill="#fa72c6">Session </text>
-   <text xml:space="preserve" font-size="23.75px" y="631.25" x="835" font-family="Arial" fill="#fa72c6">Lifetime</text>
-  </g>
- </g>
+<g transform="translate(118.3 -88.617)">
+<g transform="translate(-111.27 86.342)">
+<path d="m188.91 308.67v141.72h14.141v-141.72h-14.141z" fill-rule="evenodd" fill="#fa72c6"/>
+<text xml:space="preserve" font-size="30px" y="35" x="121.25" font-family="Arial" fill="#000000">Peer</text>
+<path d="m146.41 96.094v779.53h14.141v-779.53h-14.141z" fill-rule="evenodd" fill="#404040"/>
+<path d="m160.55 166.95v637.73h14.141v-637.73h-14.141z" fill-rule="evenodd" fill="#737373"/>
+<path d="m174.69 237.81v496.02h14.219v-496.02h-14.219z" fill-rule="evenodd" fill="#8c8c8c"/>
+<path d="m746.41 96.094v779.53h14.141v-779.53h-14.141z" fill-rule="evenodd" fill="#404040"/>
+<path d="m732.19 166.95v637.73h14.219v-637.73h-14.219z" fill-rule="evenodd" fill="#737373"/>
+<path stroke-linejoin="round" d="m166.88 96.094h573.12" stroke="#595959" stroke-linecap="round" stroke-width="1.1719px" fill="none"/>
+<path d="m160.55 96.094 8.4375-4.2188c-1.3281 2.6562-1.3281 5.7031 0 8.3594l-8.4375-4.1406z" fill-rule="evenodd" fill="#595959"/>
+<path d="m746.41 96.094-8.4375 4.1406c1.3281-2.6563 1.3281-5.7031 0-8.3594l8.4375 4.2188z" fill-rule="evenodd" fill="#595959"/>
+<path d="m380.08 65.156v23.984h146.72v-23.984h-146.72z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="20px" y="83.75" x="380" font-family="Arial" fill="#000000">TCP established</text>
+<path stroke-linejoin="round" d="m173.98 166.95h551.88" stroke="#595959" stroke-linecap="round" stroke-width="1.1719px" fill="none"/>
+<path d="m167.66 166.95 8.3594-4.2187c-1.3281 2.6562-1.3281 5.7812 0 8.3594l-8.3594-4.1406z" fill-rule="evenodd" fill="#595959"/>
+<path d="m732.19 166.95-8.3594 4.1406c1.3281-2.5781 1.3281-5.7031 0-8.3594l8.3594 4.2187z" fill-rule="evenodd" fill="#595959"/>
+<path d="m378.2 136.02v23.984h143.44v-23.984h-143.44z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="20px" y="153.75" x="378.75" font-family="Arial" fill="#000000">TLS established</text>
+<path stroke-linejoin="round" d="m195.23 237.81 516.41 0.39062" stroke="#595959" stroke-linecap="round" stroke-width="1.1719px" fill="none"/>
+<path d="m188.91 237.81 8.3594-4.2188c-1.3281 2.6562-1.3281 5.7812 0 8.4375l-8.3594-4.2188z" fill-rule="evenodd" fill="#595959"/>
+<path d="m718.05 238.2-8.4375 4.2188c1.3281-2.6563 1.3281-5.7813 0-8.4375l8.4375 4.2187z" fill-rule="evenodd" fill="#595959"/>
+<path d="m348.98 231.02 208.98 0.15626v-23.984l-208.98-0.15625v23.984z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="20px" y="225" x="348.75" font-family="Arial" fill="#000000">W</text>
+<text xml:space="preserve" font-size="20px" y="225" x="367.5" font-family="Arial" fill="#000000">e</text>
+<text xml:space="preserve" font-size="20px" y="225" x="378.75" font-family="Arial" fill="#000000">b</text>
+<text xml:space="preserve" font-size="20px" y="225" x="390" font-family="Arial" fill="#000000">S</text>
+<text xml:space="preserve" font-size="20px" y="225" x="403.75" font-family="Arial" fill="#000000">o</text>
+<text xml:space="preserve" font-size="20px" y="225" x="415" font-family="Arial" fill="#000000">c</text>
+<text xml:space="preserve" font-size="20px" y="225" x="425" font-family="Arial" fill="#000000">k</text>
+<text xml:space="preserve" font-size="20px" y="225" x="435" font-family="Arial" fill="#000000">e</text>
+<text xml:space="preserve" font-size="20px" y="225" x="446.25" font-family="Arial" fill="#000000">t</text>
+<text xml:space="preserve" font-size="20px" y="225" x="451.25" font-family="Arial" fill="#000000"> </text>
+<text xml:space="preserve" font-size="20px" y="225" x="456.25" font-family="Arial" fill="#000000">e</text>
+<text xml:space="preserve" font-size="20px" y="225" x="467.5" font-family="Arial" fill="#000000">s</text>
+<text xml:space="preserve" font-size="20px" y="225" x="477.5" font-family="Arial" fill="#000000">t</text>
+<text xml:space="preserve" font-size="20px" y="225" x="483.75" font-family="Arial" fill="#000000">a</text>
+<text xml:space="preserve" font-size="20px" y="225" x="495" font-family="Arial" fill="#000000">b</text>
+<text xml:space="preserve" font-size="20px" y="225" x="506.25" font-family="Arial" fill="#000000">l</text>
+<text xml:space="preserve" font-size="20px" y="225" x="510" font-family="Arial" fill="#000000">i</text>
+<text xml:space="preserve" font-size="20px" y="225" x="515" font-family="Arial" fill="#000000">s</text>
+<text xml:space="preserve" font-size="20px" y="225" x="525" font-family="Arial" fill="#000000">h</text>
+<text xml:space="preserve" font-size="20px" y="225" x="536.25" font-family="Arial" fill="#000000">e</text>
+<text xml:space="preserve" font-size="20px" y="225" x="546.25" font-family="Arial" fill="#000000">d</text>
+<path d="m718.05 238.2v495.62h14.141v-495.62h-14.141z" fill-rule="evenodd" fill="#8c8c8c"/>
+<path d="m188.91 521.25v141.72h14.141v-141.72h-14.141z" fill-rule="evenodd" fill="#fa72c6"/>
+<path d="m703.83 308.67v141.72h14.219v-141.72h-14.219z" fill-rule="evenodd" fill="#fa72c6"/>
+<path d="m703.83 521.25v141.72h14.219v-141.72h-14.219z" fill-rule="evenodd" fill="#fa72c6"/>
+<path stroke-linejoin="round" d="m210.62 308.67h485.62" stroke="#fa72c6" stroke-linecap="round" stroke-width="2.0312px" fill="none"/>
+<path d="m203.05 308.67 10-5c-1.5625 3.125-1.5625 6.875 0 10l-10-5z" fill-rule="evenodd" fill="#fa72c6"/>
+<path d="m703.83 308.67-10 5c1.5625-3.125 1.5625-6.875 0-10l10 5z" fill-rule="evenodd" fill="#fa72c6"/>
+<path d="m363.98 277.73v24.062h178.91v-24.062h-178.91z" fill-rule="evenodd" fill="#fff"/>
+<text font-weight="bold" xml:space="preserve" font-size="20px" y="296.25" x="363.75" font-family="Arial" fill="#fa72c6">WAMP established</text>
+<path stroke-linejoin="round" d="m210.62 450.39h485.62" stroke="#fa72c6" stroke-linecap="round" stroke-width="2.0312px" fill="none"/>
+<path d="m203.05 450.39 10-5c-1.5625 3.125-1.5625 6.875 0 10l-10-5z" fill-rule="evenodd" fill="#fa72c6"/>
+<path d="m703.83 450.39-10 5c1.5625-3.125 1.5625-6.875 0-10l10 5z" fill-rule="evenodd" fill="#fa72c6"/>
+<path d="m387.34 419.53v23.984h132.27v-23.984h-132.27z" fill-rule="evenodd" fill="#fff"/>
+<text font-weight="bold" xml:space="preserve" font-size="20px" y="437.5" x="387.5" font-family="Arial" fill="#fa72c6">WAMP closed</text>
+<path stroke-linejoin="round" d="m210.62 662.97h485.62" stroke="#fa72c6" stroke-linecap="round" stroke-width="2.0312px" fill="none"/>
+<path d="m203.05 662.97 10-5c-1.5625 3.2031-1.5625 6.875 0 10l-10-5z" fill-rule="evenodd" fill="#fa72c6"/>
+<path d="m703.83 662.97-10 5c1.5625-3.125 1.5625-6.7969 0-10l10 5z" fill-rule="evenodd" fill="#fa72c6"/>
+<path d="m387.34 632.11v23.984h132.27v-23.984h-132.27z" fill-rule="evenodd" fill="#fff"/>
+<text font-weight="bold" xml:space="preserve" font-size="20px" y="650" x="387.5" font-family="Arial" fill="#fa72c6">WAMP closed</text>
+<path stroke-linejoin="round" d="m210.62 521.25h485.62" stroke="#fa72c6" stroke-linecap="round" stroke-width="2.0312px" fill="none"/>
+<path d="m203.05 521.25 10-5c-1.5625 3.125-1.5625 6.875 0 10l-10-5z" fill-rule="evenodd" fill="#fa72c6"/>
+<path d="m703.83 521.25-10 5c1.5625-3.125 1.5625-6.875 0-10l10 5z" fill-rule="evenodd" fill="#fa72c6"/>
+<path d="m363.98 490.39v23.984h178.91v-23.984h-178.91z" fill-rule="evenodd" fill="#fff"/>
+<text font-weight="bold" xml:space="preserve" font-size="20px" y="508.75" x="363.75" font-family="Arial" fill="#fa72c6">WAMP established</text>
+<path stroke-linejoin="round" d="m195.23 733.44 516.41 0.39062" stroke="#595959" stroke-linecap="round" stroke-width="1.1719px" fill="none"/>
+<path d="m188.91 733.44 8.3594-4.1406c-1.3281 2.5781-1.3281 5.7031 0 8.3594l-8.3594-4.2188z" fill-rule="evenodd" fill="#595959"/>
+<path d="m718.05 733.83-8.4375 4.2188c1.3281-2.6563 1.3281-5.7813 0-8.3594l8.4375 4.1406z" fill-rule="evenodd" fill="#595959"/>
+<path d="m370.62 726.72 165.62 0.0781 0.0781-23.984-165.7-0.15625v24.062z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="20px" y="721.25" x="370" font-family="Arial" fill="#000000">W</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="390" font-family="Arial" fill="#000000">e</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="400" font-family="Arial" fill="#000000">b</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="411.25" font-family="Arial" fill="#000000">S</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="425" font-family="Arial" fill="#000000">o</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="436.25" font-family="Arial" fill="#000000">c</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="446.25" font-family="Arial" fill="#000000">k</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="456.25" font-family="Arial" fill="#000000">e</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="467.5" font-family="Arial" fill="#000000">t</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="472.5" font-family="Arial" fill="#000000"> </text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="478.75" font-family="Arial" fill="#000000">c</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="488.75" font-family="Arial" fill="#000000">l</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="492.5" font-family="Arial" fill="#000000">o</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="503.75" font-family="Arial" fill="#000000">s</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="513.75" font-family="Arial" fill="#000000">e</text>
+<text xml:space="preserve" font-size="20px" y="721.25" x="525" font-family="Arial" fill="#000000">d</text>
+<path stroke-linejoin="round" d="m181.09 804.69h551.8" stroke="#595959" stroke-linecap="round" stroke-width="1.1719px" fill="none"/>
+<path d="m174.69 804.69 8.4375-4.1406c-1.3281 2.6562-1.3281 5.7031 0 8.3594l-8.4375-4.2188z" fill-rule="evenodd" fill="#595959"/>
+<path d="m739.3 804.69-8.4375 4.2188c1.3281-2.6562 1.3281-5.7031 0-8.3594l8.4375 4.1406z" fill-rule="evenodd" fill="#595959"/>
+<path d="m406.95 773.83v23.984h100.08v-23.984h-100.08z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="20px" y="791.25" x="407.5" font-family="Arial" fill="#000000">TLS closed</text>
+<path stroke-linejoin="round" d="m166.88 875.62h573.12" stroke="#595959" stroke-linecap="round" stroke-width="1.1719px" fill="none"/>
+<path d="m160.55 875.62 8.4375-4.2188c-1.3281 2.6562-1.3281 5.7031 0 8.3594l-8.4375-4.1406z" fill-rule="evenodd" fill="#595959"/>
+<path d="m746.41 875.62-8.4375 4.1406c1.3281-2.6562 1.3281-5.7031 0-8.3594l8.4375 4.2188z" fill-rule="evenodd" fill="#595959"/>
+<path d="m401.8 844.69v23.984h103.36v-23.984h-103.36z" fill-rule="evenodd" fill="#fff"/>
+<text xml:space="preserve" font-size="20px" y="862.5" x="401.25" font-family="Arial" fill="#000000">TCP closed</text>
+<path stroke-linejoin="round" d="m184.14 733.83h-56.953c-8.9844 0-16.25-7.2656-16.25-16.172v0 0-220.31c0-8.9844-7.2656-16.25-16.25-16.25v0c8.9844 0 16.25-7.2656 16.25-16.25v0-210.78c0-8.9844 7.2656-16.25 16.25-16.25v0h56.953" stroke="#000" stroke-linecap="round" stroke-width=".39062px" fill="none"/>
+<text xml:space="preserve" font-size="20px" y="462.5" x="13.75" font-family="Arial" fill="#000000">WAMP </text>
+<text xml:space="preserve" font-size="20px" y="487.5" x="2.5" font-family="Arial" fill="#000000">Transport </text>
+<text xml:space="preserve" font-size="20px" y="511.25" x="10" font-family="Arial" fill="#000000">Lifetime</text>
+<path stroke-linejoin="round" d="m713.28 308.67h66.484c8.9063 0 16.25 7.2656 16.25 16.25v0 0 38.359c0 8.9844 7.2656 16.25 16.172 16.25v0c-8.9062 0-16.172 7.2656-16.172 16.25v0 0 38.359c0 8.9844-7.3437 16.25-16.25 16.25v0h-66.484" stroke="#fa72c6" stroke-linecap="round" stroke-width="2.0312px" fill="none"/>
+<text xml:space="preserve" font-size="23.75px" y="358.75" x="833.75" font-family="Arial" fill="#fa72c6">WAMP </text>
+<text xml:space="preserve" font-size="23.75px" y="386.25" x="828.75" font-family="Arial" fill="#fa72c6">Session </text>
+<text xml:space="preserve" font-size="23.75px" y="415" x="830" font-family="Arial" fill="#fa72c6">Lifetime</text>
+<text xml:space="preserve" font-size="30px" y="33.75" x="721.25" font-family="Arial" fill="#000000">Peer</text>
+<path stroke-linejoin="round" d="m719.22 521.25h66.406c8.9844 0 16.25 7.2656 16.25 16.25v0 43.125c0 8.9844 7.2656 16.25 16.25 16.25v0c-8.9844 0-16.25 7.2656-16.25 16.172v0 33.672c0 8.9844-7.2656 16.25-16.25 16.25v0 0h-66.406" stroke="#fa72c6" stroke-linecap="round" stroke-width="2.0312px" fill="none"/>
+<text xml:space="preserve" font-size="23.75px" y="576.25" x="840" font-family="Arial" fill="#fa72c6">WAMP </text>
+<text xml:space="preserve" font-size="23.75px" y="603.75" x="835" font-family="Arial" fill="#fa72c6">Session </text>
+<text xml:space="preserve" font-size="23.75px" y="631.25" x="835" font-family="Arial" fill="#fa72c6">Lifetime</text>
+</g>
+</g>
 </svg>
